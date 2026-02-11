@@ -1,2 +1,4 @@
 # MY_FIRST_REPO
 Learning GITHUB
+
+LEARNING AI
