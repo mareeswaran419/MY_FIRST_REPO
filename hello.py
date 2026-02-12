@@ -1,1 +1,1 @@
-print("Hello AI")
+print("Learn Ai and GIT")
